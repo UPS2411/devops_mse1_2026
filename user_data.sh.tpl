@@ -5,6 +5,7 @@
 dnf update -y
 
 
+
 # Install Nginx and PHP-FPM (AWS CLI is preinstalled on Amazon Linux 2023)
 dnf install -y nginx php php-fpm
 

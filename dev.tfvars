@@ -14,5 +14,5 @@ public_subnet_cidr = "10.0.1.0/24"
 # TODO: replace with your own public IP, e.g. "203.0.113.10/32"
 allowed_ssh_cidr = "0.0.0.0/0"
 
-# Final name becomes: utkarsh-text-storage-dev-<account-id>
-bucket_prefix = "utkarsh-text-storage"
+# Final name becomes: utkarsh-s-text-storage-dev-<account-id>
+bucket_prefix = "utkarsh-s-text-storage"
